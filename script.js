@@ -3,8 +3,9 @@
  */
 
 /* Step 1
- * Create objects to represent individual products with the following attributes:
- * name, price, category
+ * Create objects to represent individual shoe products with the following attributes:
+ * name, price, maker
+ * if price is a range, use the upper end of that range
  * and add them to the "productList" array using array.push()
  */
 
