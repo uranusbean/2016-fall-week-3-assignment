@@ -13,31 +13,30 @@ var productList = []; //this is an array
 
 //Your code here
 var product = {
-  name:'abc',
-  price: 10,
-  maker: 'nike'
+  name:'Men’s GEL Venture 5 Running Shoe',
+  price: 79.95,
+  maker: 'ASICS'
 };
 productList.push(product);
 
 product = {
-  name:'bcd',
-  price: 40,
-  maker: 'costco'
-};
-productList.push(product);
-
-
-product = {
-  name:'cde',
-  price: 70,
-  maker: 'adidas'
+  name:'JACKSHIBO Men Women Unisex Couple Casual Fashion Sneakers Breathable Athletic sports shoes',
+  price: 32.99,
+  maker: 'JACKSHIBO'
 };
 productList.push(product);
 
 product = {
-  name:'def',
-  price: 40,
-  maker: 'new balance'
+  name:'Champion Womens Gusto Cross Trainer',
+  price: 39.97,
+  maker: 'Champion'
+};
+productList.push(product);
+
+product = {
+  name:'Puma Adult Suede Classic Shoe',
+  price: 168.32,
+  maker: 'PUMA'
 };
 productList.push(product);
 
